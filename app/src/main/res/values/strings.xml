@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyOutBox</string>
+
+
+
+    <string name="Main_Activity_My_OutBox">My OutBox</string>
+    <string name="Main_Activity_Start_A_Compaign">Start \nA\n Compaign</string>
+    <string name="Main_Activity_Go">Go</string>
+
+
+    <string name="Contact_from_phone_Import_from_Contact">Import from Contact</string>
+    <string name="Contact_from_phone_Dear">Dear_________</string>
+    <string name="Contact_from_phone_Write_message_here">Write message here...</string>
+    <string name="Contact_from_phone_Send">Send</string>
+
+    <string name="ContactFromExcel_brows_file">Brows File</string>
+
+
+
+
+
+
+
+</resources>
